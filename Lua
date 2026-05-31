@@ -2,10 +2,8 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
 local razonDeBan = [[You have been banned from this experience
-1038 years
-problem: Exploiting
-Don't break the rules again or you will be banned permanently. .
-
+1038 years problem: Exploiting
+Don't break the rules again or you will be banned permanently.
 Reason: Violating Community Standards - Exploiting (Error Code: 267)
 Ban Expiration: Permanent
 Moderator ID: 1928374]]
